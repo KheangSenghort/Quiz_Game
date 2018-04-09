@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> أسئلة ثقافية </string>
+    <string name="banner_ad_unit_id">ca-app-pub-1974564504308943/8485130340</string>
+    <string name="rate_app"> قَـيم الـتـطـببـق للحـصـول على 5 نـقـاط</string>
+    <string name="watch_add">شـاهـد إعـلان للحـصـول على 10 نـقـاط</string>
+    <string name="share_fac">شــارك على فيـس بـوك للحـصـول على 5 نـقـاط</string>
+    <string name="download_apps"> قـم بـتثبيت احــد التـطبيقات للحـصـول على 5 نـقـاط</string>
+    <string name="share_app">  شــارك الـتـطـببـق مـع اصـدقائك للحـصـول على 5 نـقـاط</string>
+    <string name="share_whatsapp"> شــارك الـتـطـببـق في الواتساب للحـصـول على 5 نـقـاط </string>
+    <string name="share_twitter"> شــارك الـتـطـببـق في تويتر للحـصـول على 5 نـقـاط </string>
+
+</resources>
