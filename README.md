@@ -1,5 +1,5 @@
 # Quiz_Game
-Edited  By MaNoOo 
+Edited  By MaNoOoz
 
 MyEmail : manoo.sar@gmail.com 
 
