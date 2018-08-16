@@ -13,10 +13,17 @@ Edited  By MaNoOoz
 ![Screenshot](39223326_1834378973318033_3338403222195798016_n.jpg)
 
 
-MyEmail : manoo.sar@gmail.com 
+# Contact Me At : 
 
-Donate : paypal.me/YAMANALKHATEEB 
+Edited  By MaNoOoz
 
-GitHub :  https://github.com/MaNoOoz 
+My PlayStore : https://play.google.com/store/apps/dev?id=8389389659889758696
+
+My Email : manoo.sar@gmail.com
+
+Donate : https://www.paypal.me/YAMANALKHATEEB
+
+GitHub :  https://github.com/MaNoOoz
 
 Twitter : https://twitter.com/MaNoOoz77 
+
