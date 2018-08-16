@@ -1,7 +1,8 @@
 # Quiz_Game
 
 
-لعبة أسئلة وأجوبة 
+لعبة أسئلة وأجوبة
+
 Edited  By MaNoOoz
 
 
@@ -14,8 +15,6 @@ Edited  By MaNoOoz
 
 
 # Contact Me At : 
-
-Edited  By MaNoOoz
 
 My PlayStore : https://play.google.com/store/apps/dev?id=8389389659889758696
 
